@@ -5,6 +5,11 @@
       "Id": "ec03d3f3-0ce3-4d3e-92f4-3e655ce1f409",
       "Type": "Process",
       "ProjectRelativePath": "RPA Workflow/project.uiproj"
+    },
+    {
+      "Id": "4e6c9eb4-3db1-42f0-9448-05936e14b84b",
+      "Type": "ProcessOrchestration",
+      "ProjectRelativePath": "Maestro Process/project.uiproj"
     }
   ]
 }
